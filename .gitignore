@@ -1,0 +1,45 @@
+# KiCad
+*.kicad_prl
+*.lck
+*-backups/
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.bak.*
+~$*
+
+# VS Code / Dev Containers
+.vscode/
+.devcontainer/
+
+# Eclipse / STM32CubeIDE
+.history/
+**/.history/
+.metadata/
+Debug/
+Release/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Build artifacts
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db

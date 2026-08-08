@@ -1,0 +1,11 @@
+# Normalize text files
+* text=auto
+
+# KiCad
+*.kicad_pcb linguist-detectable=true
+
+# Generated files
+*.kicad_prl linguist-generated=true
+
+# Documentation
+docs/** linguist-documentation=true
